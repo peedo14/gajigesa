@@ -1,4 +1,4 @@
-<h1 align='center'>GAJIGESA TEST</h1>
+<h1 align='center'>GAJIGESA</h1>
 
 Based on the requirement, im choosing the stack below to create the web server
 
